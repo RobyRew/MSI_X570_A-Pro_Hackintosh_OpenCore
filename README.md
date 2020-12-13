@@ -1,5 +1,7 @@
-# Msi-A-Pro-X570-Hackintosh
+# Msi X570 A-Pro-Hackintosh
 Central point on making everything working on Motherboard Msi A-Pro X570
+
+[Msi X570 A-Pro Specifications](https://www.msi.com/Motherboard/X570-A-PRO/Specification)
 
 ## Specs:
 1. Motherboard: Msi A-Pro X570
