@@ -1,7 +1,7 @@
 # Msi-A-Pro-X570-Hackintosh
 Central point on making everything working on Motherboard Msi A-Pro X570
 
-##Specs:
+## Specs:
 1. Motherboard: Msi A-Pro X570
 2. CPU:          AMD Ryzen 9 3900X
 3. GPU:          Msi Mech OC 5700XT 8GB
