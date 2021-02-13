@@ -1,4 +1,4 @@
-# Msi X570 A-Pro Hackintosh OPENCORE 0.6.6
+# Msi X570 A-Pro OPENCORE 0.6.6
 Central point on making everything working on Motherboard Msi A-Pro X570
 
 [Msi X570 A-Pro Specifications](https://www.msi.com/Motherboard/X570-A-PRO/Specification)
