@@ -28,9 +28,11 @@ Central point on making everything working on Motherboard Msi A-Pro X570
 - Some software due the limitations of an AMD CPU.
 
 
-
+```bash
+```
 # INSTALLATION GUIDE
-
+```bash
+```
 ## Creating Booteable USB
 
 ### From macOS:
@@ -50,7 +52,8 @@ Central point on making everything working on Motherboard Msi A-Pro X570
 
 [**Dortania's Guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html)
 
-
+```bash
+```
 # BIOS Settings:
 - Make Sure you have [Latest BIOS](https://www.msi.com/Motherboard/support/X570-A-PRO#down-bios)
 
