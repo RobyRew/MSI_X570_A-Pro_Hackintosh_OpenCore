@@ -17,11 +17,9 @@ Central point on making everything working on Motherboard Msi A-Pro X570
 - [x] **Tested with macOS Big Sur 11.1 and 11.2.1**
 - [x] **Bluetooth:** ([With a USB adapter](amazon.com))
 - [x] **USB:** All internal and external ports (Thanks to SSDT-EC-USBX-LAPTOP.aml)
-- [x] **Ethernet:** Realtek RTL8111 (Thanks to RealtekRTL8111.kext
+- [x] **Ethernet:** Realtek RTL8111 (Thanks to RealtekRTL8111.kext)
 - [x] **HDMI, DisplayPort:** Works perfect. 
-- [x] **Shutdown:** Yes
-- [x] **Restart:** Yes
-- [x] **Sleep/Wake:** Yes
+- [x] **Shutdown/Restart/Sleep/Wake:** Yes
 
 ### Not working
 - Continuity Features
