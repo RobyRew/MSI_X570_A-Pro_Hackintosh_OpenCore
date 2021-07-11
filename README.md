@@ -2,6 +2,8 @@
 
 **This guide it will be updated to OpenCore 0.7.1 ASAP.**
 
+![MSI X570 A-Pro on NZXT 510](Docs/Images/Guide/PC.png)
+
 ## Specs:
 | Component | Brand | Price |
 |:--- |:---:|:--- |
