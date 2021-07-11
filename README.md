@@ -8,7 +8,7 @@
 | Motherboard:  | Msi A-Pro X570 | 169.99$ |
 | CPU: | AMD Ryzen 9 3900X | 484.00$ |
 | GPU: | Msi Mech OC 5700XT 8GB | At that time just 390$, now there is any GPU online... |
-| Memory: | HyperX 3200MHz x2 8GB | 129$ |
+| Memory: | HyperX 3200MHz 8GB x2 | 129$ |
 | Power Supply: | NZXT 650W | 139$ |
 | Case: | NZXT 510 | 84,99$ |
 
