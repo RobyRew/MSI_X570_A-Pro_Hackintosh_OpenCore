@@ -12,8 +12,8 @@
 | Power Supply: | NZXT 650W | 139$ |
 | Case: | NZXT 510 | 84,99$ |
 
-![MSI X570 A-PRO Layout](/Images/Guide/MSI_X570_A-PRO-layout.png)
-These are all the external ports of the laptop. (**They all work**)
+![MSI X570 A-PRO Layout](/Images/Guide/layout.png)
+These are all the external ports of the Motherboard. (**They all work**)
 
 ### Working
 - [x] **Tested with macOS Big Sur 11.1 and 11.4**
@@ -73,14 +73,14 @@ These are all the external ports of the laptop. (**They all work**)
 # OpenCore Configuration
 
 ## [Here it's my config.plist and the explanation:](/config.plist.md)
-#### [ACPI](#acpi)
-#### [Booter](#booter)
-#### [DeviceProperties](#deviceproperties)
-#### [Kernel](#kernel)
-#### [Misc](#misc)
-#### [NVRAM](#nvram)
-#### [PlatformInfo](#platforminfo)
-#### [UEFI](#uefi)
+#### [ACPI](/config.plist.md#acpi)
+#### [Booter](/config.plist.md#booter)
+#### [DeviceProperties](/config.plist.md#deviceproperties)
+#### [Kernel](/config.plist.md#kernel)
+#### [Misc](/config.plist.md#misc)
+#### [NVRAM](/config.plist.md#nvram)
+#### [PlatformInfo](/config.plist.md#platforminfo)
+#### [UEFI](/config.plist.md#uefi)
 
 ---
 
