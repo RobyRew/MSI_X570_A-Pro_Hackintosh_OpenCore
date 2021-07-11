@@ -12,7 +12,7 @@
 | Power Supply: | NZXT 650W | 139$ |
 | Case: | NZXT 510 | 84,99$ |
 
-![MSI X570 A-PRO Layout](/Images/Guide/layout.png)
+![MSI X570 A-PRO Layout](/Images/Guide/layout2.png)
 These are all the external ports of the Motherboard. (**They all work**)
 
 ### Working
