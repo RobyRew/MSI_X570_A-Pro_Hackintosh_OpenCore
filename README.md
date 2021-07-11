@@ -12,8 +12,9 @@
 | Power Supply: | NZXT 650W | 139$ |
 | Case: | NZXT 510 | 84,99$ |
 
-![MSI X570 A-PRO Layout](/Images/Guide/layout2.png)
-These are all the external ports of the Motherboard. (**They all work**)
+These are all the external ports of the Motherboard. (**They all work**):
+
+![MSI X570 A-PRO Layout](/Docs/Images/Guide/IO_layout.png)
 
 ### Working
 - [x] **Tested with macOS Big Sur 11.1 and 11.4**
@@ -51,7 +52,7 @@ These are all the external ports of the Motherboard. (**They all work**)
 - Mojave: `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 - High Sierra: `sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 
-![Terminal](Images/Guide/BootableUSB.png)
+![Terminal](/Docs/Images/Guide/BootableUSB.png)
 
 ### From Windows:
 
@@ -72,33 +73,15 @@ These are all the external ports of the Motherboard. (**They all work**)
 
 # OpenCore Configuration
 
-## [Here it's my config.plist and the explanation:](/config.plist.md)
-#### [ACPI](/config.plist.md#acpi)
-#### [Booter](/config.plist.md#booter)
-#### [DeviceProperties](/config.plist.md#deviceproperties)
-#### [Kernel](/config.plist.md#kernel)
-#### [Misc](/config.plist.md#misc)
-#### [NVRAM](/config.plist.md#nvram)
-#### [PlatformInfo](/config.plist.md#platforminfo)
-#### [UEFI](/config.plist.md#uefi)
-
----
-
-# Post Install (Important!!)
-Open Terminal.app and run those commands:
-```bash
-sudo rm /Library/Preferences/SystemConfiguration/NetworkInterfaces.plist
-sudo rm /Library/Preferences/SystemConfiguration/preferences.plist
-```
----
-
-# BenchMarks:
-#### Cinebench R23:
-![Cinebench R23](/Images/Benchmarks/Cinebench_R23.png)
-
-#### GeekBench 5:
-![GeekBench 5_CPU Score](/Images/Benchmarks/GeekBench5_CPU.png)
-![GeekBench 5_GPU Score](/Images/Benchmarks/GeekBench5_GPU.png)
+## [Here it's my config.plist and the explanation:](Docs/config.plist.md)
+#### [ACPI](Docs/config.plist.md#acpi)
+#### [Booter](Docs/config.plist.md#booter)
+#### [DeviceProperties](Docs/config.plist.md#deviceproperties)
+#### [Kernel](Docs/config.plist.md#kernel)
+#### [Misc](Docs/config.plist.md#misc)
+#### [NVRAM](Docs/config.plist.md#nvram)
+#### [PlatformInfo](Docs/config.plist.md#platforminfo)
+#### [UEFI](Docs/config.plist.md#uefi)
 
 ---
 
