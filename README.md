@@ -21,7 +21,7 @@ These are all the external ports of the Motherboard. (**They all work**):
 ### Working
 - [x] **Tested with macOS Big Sur 11.1 and 11.4**
 - [x] **Bluetooth:** ([With a USB adapter](amazon.com))
-- [x] **USB:** All internal and external ports (Thanks to SSDT-EC-USBX-LAPTOP.aml)
+- [x] **USB:** All internal and external ports (Thanks to SSDT-EC-USBX.aml)
 - [x] **Ethernet:** Realtek RTL8111 (Thanks to RealtekRTL8111.kext)
 - [x] **HDMI, DisplayPort:** Works perfect. 
 - [x] **Shutdown/Restart/Sleep/Wake:** Yes
