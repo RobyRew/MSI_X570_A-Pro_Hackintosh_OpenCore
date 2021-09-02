@@ -1,18 +1,20 @@
 # Hackintosh Guide for **MSI X570 A-Pro Motherboard**
 
-**This guide it will be updated to OpenCore 0.7.1 ASAP.**
+**This guide it's updated to OpenCore 0.7.2 and tested on a friend's computer.**
 
 ![MSI X570 A-Pro on NZXT 510](Docs/Images/Guide/PC.png)
 
 ## Specs:
-| Component | Brand | Price |
-|:--- |:---:|:--- |
-| Motherboard:  | Msi A-Pro X570 | 169.99$ |
-| CPU: | AMD Ryzen 9 3900X | 484.00$ |
-| GPU: | Msi Mech OC 5700XT 8GB | At that time just 390$, now there is any GPU online... |
-| Memory: | HyperX 3200MHz 8GB x2 | 129$ |
-| Power Supply: | NZXT 650W | 139$ |
-| Case: | NZXT 510 | 84,99$ |
+| Component | Brand |
+|:--- |:---:|
+| Motherboard:  | Msi A-Pro X570 |
+| CPU: | AMD Ryzen 9 3900X |
+| GPU: | Msi Mech OC 5700XT 8GB |
+| Memory: | HyperX 3200MHz 8GB x2 |
+| Audio: | Realtek ALC1220 |
+| Ethernet: | Realtek 8111H |
+| Power Supply: | NZXT 650W |
+| Case: | NZXT 510 |
 
 These are all the external ports of the Motherboard. (**They all work**):
 
