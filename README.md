@@ -1,6 +1,23 @@
 # Hackintosh Guide for **MSI X570 A-Pro Motherboard**
 
-**This guide it's updated to OpenCore 0.7.2 and tested on a friend's computer.**
+**This guide it's updated to OpenCore 0.7.3 and tested on a friend's computer.**
+
+<!-- shields -->
+<div>
+    <!-- downloads -->
+    <a href="https://github.com/RobyRew/MSI_X570_A-Pro_Hackintosh_OpenCore/releases">
+        <img src="https://img.shields.io/github/downloads/RobyRew/MSI_X570_A-Pro_Hackintosh_OpenCore/total" alt="downloads"/>
+    </a>
+    <!-- version -->
+    <a href="https://github.com/RobyRew/MSI_X570_A-Pro_Hackintosh_OpenCore/releases/latest">
+        <img src="https://img.shields.io/github/release/RobyRew/MSI_X570_A-Pro_Hackintosh_OpenCore.svg" alt="latest version"/>
+    </a>
+    <!-- platform -->
+    <a href="https://github.com/RobyRew/MSI_X570_A-Pro_Hackintosh_OpenCore">
+        <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform"/>
+    </a>
+</div>
+</br></br>
 
 ![MSI X570 A-Pro on NZXT 510](Docs/Images/Guide/PC.png)
 
@@ -96,3 +113,7 @@ These are all the external ports of the Motherboard. (**They all work**):
 [OpenCore Team](https://github.com/acidanthera/OpenCorePkg) (Bootloader)
 
 [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/amd.html#starting-point) (Guide)
+
+---
+
+If this guide has been useful for you, don't forget to give me a star ⭐️❤️
