@@ -1,6 +1,6 @@
 # Hackintosh Guide for **MSI X570 A-Pro Motherboard**
 
-**This guide it's updated to OpenCore 0.7.3 and tested on a friend's computer.**
+**This guide it's updated to OpenCore 0.8.3 and tested on a friend's computer.**
 
 <!-- shields -->
 <div>
@@ -38,7 +38,7 @@ These are all the external ports of the Motherboard. (**They all work**):
 ![MSI X570 A-PRO Layout](/Docs/Images/Guide/IO_layout.png)
 
 ### Working
-- [x] **Tested with macOS Big Sur 11.1 and 11.4**
+- [x] **Tested with macOS Big Sur to Ventura Beta 8**
 - [x] **Bluetooth:** ([With a USB adapter](amazon.com))
 - [x] **USB:** All internal and external ports (Thanks to SSDT-EC-USBX.aml)
 - [x] **Ethernet:** Realtek RTL8111 (Thanks to RealtekRTL8111.kext)
