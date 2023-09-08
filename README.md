@@ -1,6 +1,6 @@
 # Hackintosh Guide for **MSI X570 A-Pro Motherboard**
 
-**This guide it's updated to OpenCore 0.8.5 and tested on a friend's computer.**
+**This guide it's updated to OpenCore 0.9.4 and tested on a friend's computer on macOS Catalina to Sonoma.**
 
 <!-- shields -->
 <div>
